@@ -96,9 +96,17 @@ const technologies = [
 
 const experiences = [
     {
+        title: "SDE 1",
+        company_name: "Bimaplan",
+        date: "Nov 2023 - Present",
+        points: [
+            "Actively involved in the utilization of different frameworks to architect scalable systems, with a primary focus on refining and optimizing our insurance platform. Implementing robust solutions to improve performance, user experience, and seamless interactions for a more efficient and user-friendly insurance platform.",
+        ],
+    },
+    {
         title: "Software Engineer",
         company_name: "Indiamart",
-        date: "June 2023 - Present",
+        date: "June 2023 - Nov 2023",
         points: [
             "With my expertise in ReactJS and a range of complementary technologies, I confidently managed the verification and login flow of the mobile site. Executing responsive design flawlessly while ensuring seamless cross-browser compatibility.",
         ],
