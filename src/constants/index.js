@@ -96,9 +96,17 @@ const technologies = [
 
 const experiences = [
     {
+        title: "SDE 2",
+        company_name: "Bimaplan",
+        date: "Apr 2024 - Present",
+        points: [
+            "Actively involved in the utilization of different frameworks to architect scalable systems, with a primary focus on refining and optimizing our insurance platform. Implementing robust solutions to improve performance, user experience, and seamless interactions for a more efficient and user-friendly insurance platform.",
+        ],
+    },
+    {
         title: "SDE 1",
         company_name: "Bimaplan",
-        date: "Nov 2023 - Present",
+        date: "Nov 2023 - Apr 2024",
         points: [
             "Actively involved in the utilization of different frameworks to architect scalable systems, with a primary focus on refining and optimizing our insurance platform. Implementing robust solutions to improve performance, user experience, and seamless interactions for a more efficient and user-friendly insurance platform.",
         ],
